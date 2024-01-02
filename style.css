@@ -1,0 +1,17 @@
+.cart-wrapper{
+  display: flex;
+  align-items: flex-start;
+  margin: 0 2rem;
+}
+.added-item-div{
+  width: 50%;
+}
+.added-item-table{
+  width: 100%;
+}
+.full-item-div{
+  width: 50%;
+}
+.full-item-table{
+  width: 100%;
+}
